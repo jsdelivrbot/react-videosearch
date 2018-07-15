@@ -1,6 +1,6 @@
-# Learning-React-Redux 
+# Youtube Search using react 
 
-Repo that reflects tutorial to learn React-redux on https://www.udemy.com/react-redux/learn/v4/overview
+Repo that reflects tutorial on https://www.udemy.com/react-redux/learn/v4/overview. Build a youtube like search for videos. 
 
 ### Getting Started
 
