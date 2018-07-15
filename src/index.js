@@ -6,6 +6,7 @@ import VideoList from './components/video_list';
 
 //youtube api key
 const API_KEY = process.env.REACT_APP_API_KEY;
+//const API_KEY = 'AIzaSyB7E61AaiAncZtTN5JlhWvQHvihB2e-Fn0';
 
 class App extends Component {
 	constructor(props) {
