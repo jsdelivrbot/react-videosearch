@@ -1,11 +1,10 @@
-import React from 'react';
+import React, {Component} from 'react';
 //This component has an input for searching a video.
 
-class SearchBar extends React.Component {
+//class SearchBar extends React.Component
+export default class SearchBar extends Component {
 	render() {
-		return <input />;
+		return <input onChange={event => console.log(event.target.value) }/>;
 	}
 
 }
-
-export default SearchBar;
